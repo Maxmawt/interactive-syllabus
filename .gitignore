@@ -1,5 +1,7 @@
 # syllabus-specific
 syllabus/pages
+syllabus/database.sqlite
+configuration.yaml
 #
 .idea
 *.iml
